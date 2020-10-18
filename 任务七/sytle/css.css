@@ -159,50 +159,182 @@ hr{
     line-height:36px;
 }
 
-#content_5{background:#f8f8f8;height:606px;}
-#content_5 p{font-family:"Microsoft YaHei";}
-.pic{width:1050px;height:390px;margin:0 auto;}
-.pic1,.pic2,.pic3,.pic4{width:214px;height:390px;float:left;margin:100px 18px;}
-.act{font-size:18px;}
-.shanghai a{color:black;font-size:24px;}
-.act a{color:black;font-size:16px;}
-.act1{font-size:10px;color:#787b83;}
+#content_5{
+    background:#f8f8f8;
+    height:606px;
+}
+#content_5 p{
+    font-family:"Microsoft YaHei";
+}
+.pic{
+    width:1050px;
+    height:390px;
+    margin:0 auto;
+}
+.pic1,.pic2,.pic3,.pic4{
+    width:214px;
+    height:390px;
+    float:left;
+    margin:100px 18px;
+}
+.act{
+    font-size:18px;
+}
+.shanghai a{
+    color:black;
+    font-size:24px;
+}
+.act a{
+    color:black;
+    font-size:16px;
+}
+.act1{
+    font-size:10px;
+    color:#787b83;
+}
 
-#content_6{height:568px;}
-.left{background:url("../images/mans.png");width:850px;height:568px;color:#fff;float:left;}
-.left p{color:#fff;font-family: "Microsoft YaHei";}
-.left .p1{font-size:50px;margin-top:108px;}
-.left .p2{font-size:140px;margin-top:-80px;}
-.p3{font-size:21px;margin-top:-84px;}
-.right{float:left;width:420px;height:568px;}
-.right1{font-size:21px;color:black;margin-top:158px;}
-.right span{color:#e74f4d;}
-.right2{font-size:12px;font-family:"宋体";color:#787b83;width:292px;margin:36px 70px;line-height:2em;}
-.more{width:108px;height:34px;margin:0 auto;border:2px solid #e74f4d;color:#e74f4d;font-family: "Microsoft YaHei";line-height:34px;text-align: center;}
+#content_6{
+    height:568px;
+}
+.left{
+    background:url("../images/mans.png");
+    width:850px;
+    height:568px;
+    color:#fff;
+    float:left;
+}
+.left p{
+    color:#fff;
+    font-family: "Microsoft YaHei";
+}
+.left .p1{
+    font-size:50px;
+    margin-top:108px;
+}
+.left .p2{
+    font-size:140px;
+    margin-top:-80px;
+}
+.p3{
+    font-size:21px;
+    margin-top:-84px;
+}
+.right{
+    float:left;
+    width:420px;
+    height:568px;
+}
+.right1{
+    font-size:21px;
+    color:black;
+    margin-top:158px;
+}
+.right span{
+    color:#e74f4d;
+}
+.right2{
+    font-size:12px;
+    font-family:"宋体";
+    color:#787b83;
+    width:292px;
+    margin:36px 70px;
+    line-height:2em;
+}
+.more{
+    width:108px;
+    height:34px;
+    margin:0 auto;
+    border:2px solid #e74f4d;
+    color:#e74f4d;
+    font-family: "Microsoft YaHei";
+    line-height:34px;
+    text-align: center;
+}
 
-#content_7{height:520px;}
-.one,.two{width:424px;float:left;height:520px;font-family: "黑体";font-size:21px;}
-.one{background:#e74f4d;color:#fff;}
-.two{background:#ffffff;}
+#content_7{
+    height:520px;
+}
+.one,.two{
+    width:424px;
+    float:left;
+    height:520px;
+    font-family: "黑体";
+    font-size:21px;
+}
+.one{
+    background:#e74f4d;
+    color:#fff;
+}
+.two{
+    background:#ffffff;
+}
 
-.new{margin-top:170px;}
-.see{width:168px;height:44px;line-height:44px;text-align: center;margin:26px auto;}
-.one .see{border:2px solid #fff;}
-.two .see{border:2px solid #e74f4d;}
-.two a{color:#e74f4d;}
-.two hr{background:#abaaaa;}
+.new{
+    margin-top:170px;
+}
+.see{
+    width:168px;
+    height:44px;
+    line-height:44px;
+    text-align: center;
+    margin:26px auto;
+}
+.one .see{
+    border:2px solid #fff;
+}
+.two .see{
+    border:2px solid #e74f4d;
+}
+.two a{
+    color:#e74f4d;
+}
+.two hr{
+    background:#abaaaa;
+}
 
-#content_8{height:620px;}
-#tee{margin:118px 0;}
-.to_be{font-size:21px;font-family: "黑体";color:black;}
-#tee hr{background:#e74f4d;}
-.begin{font-size:12px;font-family:"Microsoft YaHei";color:#787b83;}
+#content_8{
+    height:620px;
+}
+#tee{
+    margin:118px 0;
+}
+.to_be{
+    font-size:21px;
+    font-family: "黑体";
+    color:black;
+}
+#tee hr{
+    background:#e74f4d;
+}
+.begin{
+    font-size:12px;
+    font-family:"Microsoft YaHei";
+    color:#787b83;
+}
 
-#tee1{width:284px;height:300px;float:left;margin-left:126px;}
-.first{color:black;font-size:14px;font-family: "黑体";text-align: left;}
-.sec{color:#787b83;font-size:12px;font-family:"宋体";text-align:left;line-height:2em;margin-bottom:40px;}
+#tee1{
+    width:284px;
+    height:300px;
+    float:left;
+    margin-left:126px;
+}
+.first{
+    color:black;
+    font-size:14px;
+    font-family: "黑体";
+    text-align: left;
+}
+.sec{
+    color:#787b83;
+    font-size:12px;
+    font-family:"宋体";
+    text-align:left;
+    line-height:2em;
+    margin-bottom:40px;
+}
 
-#tee2{width:712px;
+#tee2{
+    width:712px;
     height:300px;
     float:left;
     margin-left:76px;
